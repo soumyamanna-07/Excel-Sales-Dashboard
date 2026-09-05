@@ -4,7 +4,7 @@ An interactive sales performance dashboard built in Microsoft Excel, tracking
 130 sales executives across 8 regions with slicer-driven filtering and VBA
 controlled pivot connections.
 
-![Dashboard](DashBoard_Pic.png)
+![Dashboard]  DashBoard Pic.png
 
 ## Features
 
